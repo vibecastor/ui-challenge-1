@@ -1,0 +1,11 @@
+* {
+  max-width: 768px;
+  text-align: center;
+  margin: 0px;
+}
+
+body {
+  text-align: center;
+  background-color: gray;
+  display: block; 
+}
